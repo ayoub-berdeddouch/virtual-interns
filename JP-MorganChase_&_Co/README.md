@@ -2,6 +2,6 @@
 
 ## Main Tasks:
 
-• Display data visually for traders
-• Use JP Morgan Chase frameworks and tools
-• Interface with a stock price data feed
+-  Display data visually for traders
+-  Use JP Morgan Chase frameworks and tools
+-  Interface with a stock price data feed
